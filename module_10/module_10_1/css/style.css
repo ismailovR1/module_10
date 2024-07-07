@@ -1,0 +1,13 @@
+  .button {
+    background-color: transparent;
+    color: #4A752C;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  } 
+  .btn_icon {
+    width: 15px;
+    height: 15px;
+  }
+  
+  

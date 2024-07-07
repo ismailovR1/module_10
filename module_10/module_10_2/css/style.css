@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.coords{
+    padding: 10px;
+}
